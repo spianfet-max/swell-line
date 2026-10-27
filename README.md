@@ -7,6 +7,7 @@ Low-poly three.js surf game set at Koshigoe beach, Kamakura (35.306°N 139.497°
 - Paddle, steer left/right, regular or goofy stance
 - Simulated tide and wind that change the waves while you surf
 - Generative radio: ambient piano, lo-fi, 8-bit
+- Japanese by default (日本語 / English switch on the start screen and in the menu)
 
 Single static file: `index.html`. No build step.
 
